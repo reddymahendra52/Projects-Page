@@ -3,7 +3,7 @@
         "title": "Task Manager App",
         "description": "TaskManager is a web-based productivity app for managing tasks with a user-friendly interface.",
         "url": "https://taskmanager-app.onrender.com/",
-        "image": "./src/assets/TaskManager.png",
+        "image": "./assets/TaskManager.png",
         "githubUrl": "https://github.com/reddymahendra52/TaskManager-App",
         "liveUrl": "https://taskmanager-app.onrender.com/"
     },
