@@ -2,62 +2,62 @@
     {
         "title": "Joey's Pizzeria",
         "url": "https://reddymahendra52.github.io/Pizzeria-Form/",
-        "image": "./src/assets/PizzaForm.PNG"
+        "image": "/assets/PizzaForm.PNG"
     },
     {
         "title": "Lorem Consult",
         "url": "https://reddymahendra52.github.io/Lorem-Consult/",
-        "image": "./src/assets/LoremConsult.PNG"
+        "image": "/assets/LoremConsult.PNG"
     },
     {
         "title": "Homify",
         "url": "https://reddymahendra52.github.io/Homify/",
-        "image": "./src/assets/Homify.PNG"
+        "image": "/assets/Homify.PNG"
     },
     {
         "title": "Weather App",
         "url": "https://reddymahendra52.github.io/Weather-App/",
-        "image": "./src/assets/WeatherApp.PNG"
+        "image": "/assets/WeatherApp.PNG"
     },
     {
         "title": "Rock Paper Scissors",
         "url": "https://reddymahendra52.github.io/Rock-Paper-Scissors/",
-        "image": "./src/assets/RockPaperScissors.PNG"
+        "image": "/assets/RockPaperScissors.PNG"
     },
     {
         "title": "MaaS",
         "url": "https://reddymahendra52.github.io/Landing-Page/",
-        "image": "./src/assets/MAAS.PNG"
+        "image": "/assets/MAAS.PNG"
     },
     {
         "title": "Madame Curie",
         "url": "https://reddymahendra52.github.io/Tribute-Page/",
-        "image": "./src/assets/TributePage.PNG"
+        "image": "/assets/TributePage.PNG"
     },
     {
         "title": "Bootstrap Docs",
         "url": "https://reddymahendra52.github.io/Bootstrap-Docs/",
-        "image": "./src/assets/BootstrapDocs.PNG"
+        "image": "/assets/BootstrapDocs.PNG"
     },
     {
         "title": "DevIncept Blog Page",
         "url": "https://reddymahendra52.github.io/DevIncept-BlogPage/",
-        "image": "./src/assets/DevInceptBlogPage.PNG"
+        "image": "/assets/DevInceptBlogPage.PNG"
     },
     {
         "title": "D2-Media",
         "url": "https://reddymahendra52.github.io/D2-Media-HostedVersion/",
-        "image": "./src/assets/D2-Media.PNG"
+        "image": "/assets/D2-Media.PNG"
     },
     {
         "title": "Four Card Section",
         "url": "https://reddymahendra52.github.io/Four-Card-Section-Feature/",
-        "image": "./src/assets/FourCardSection.PNG"
+        "image": "/assets/FourCardSection.PNG"
     },
     {
         "title": "Word Counter",
         "url": "https://reddymahendra52.github.io/Word-Counter/",
-        "image": "./src/assets/WordCounter.PNG"
+        "image": "/assets/WordCounter.PNG"
     }
     
 ]

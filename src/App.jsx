@@ -9,7 +9,7 @@ import LanguageIcon from '@mui/icons-material/Language';
 import FaceIcon from '@mui/icons-material/Face';
 
 {/** Illustration on the page */ }
-import illustration from './assets/illustration.svg'
+import illustration from '/assets/illustration.svg'
 
 {/** Importing projects data */ }
 import Mernprojects from '../Projects Data/MERNProjects.json';
