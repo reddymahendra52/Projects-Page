@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Sikka-study",
+        "description": "A resource platform providing concise and practical information on cryptocurrencies and lastest news in the field",
+        "url": "https://sikka-study.netlify.app/",
+        "image": "./src/assets/SikkaStudy.png",
+        "githubUrl": "https://github.com/reddymahendra52/Sikka-Study",
+        "liveUrl": "https://sikka-study.netlify.app/"
+    },
+    {
+        "title": "Personal Portfolio",
+        "description": "My personal portfolio showcases my diverse range of projects and work details, highlighting my skills and expertise through a visually appealing and user-friendly interface.",
+        "url": "https://reddymahendra52.netlify.app/",
+        "image": "./src/assets/Portfolio.png",
+        "githubUrl": "https://github.com/reddymahendra52/Portfolio-Backend-SanityCMS",
+        "liveUrl": "https://reddymahendra52.netlify.app/"
+    },
+    {
+        "title": "Goals Tracker",
+        "description": "A goals tracker app that helps you set, track, and achieve your personal and professional goals efficiently, with a user-friendly interface.",
+        "url": "https://playful-gnome-45474f.netlify.app/",
+        "image": "./src/assets/GoalsTracker.PNG",
+        "githubUrl": "https://github.com/reddymahendra52/Goals-Tracker",
+        "liveUrl": "https://playful-gnome-45474f.netlify.app/"
+    },
+    {
+        "title": "Airbnb experiences UI",
+        "description": "A clone of basic UI component from Airbnb experiences site ",
+        "url": "https://experiences-airbnb.netlify.app/",
+        "image": "./src/assets/Airbnb.PNG",
+        "githubUrl": "https://github.com/reddymahendra52/Airbnb-Experiences-UI",
+        "liveUrl": "https://experiences-airbnb.netlify.app/"
+    },
+    {
+        "title": "Expense Tracker",
+        "description": "A simple app to track expense and filter them by year",
+        "url": "https://unrivaled-mochi-e44ce2.netlify.app/",
+        "image": "./src/assets/ExpenseTracker.PNG",
+        "githubUrl": "https://github.com/reddymahendra52/Expense-Tracker",
+        "liveUrl": "https://unrivaled-mochi-e44ce2.netlify.app/"
+    },
+    {
+        "title": "React Facts",
+        "description": "A basic use of React components to display some cool React Facts",
+        "url": "https://facts-react.netlify.app/",
+        "image": "./src/assets/ReactFacts.PNG",
+        "githubUrl": "https://github.com/reddymahendra52/ReactFacts",
+        "liveUrl": "https://facts-react.netlify.app/"
+    }
+]

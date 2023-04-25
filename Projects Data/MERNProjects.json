@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Task Manager App",
+        "description": "TaskManager is a web-based productivity app for managing tasks with a user-friendly interface.",
+        "url": "https://taskmanager-app.onrender.com/",
+        "image": "./src/assets/TaskManager.png",
+        "githubUrl": "https://github.com/reddymahendra52/TaskManager-App",
+        "liveUrl": "https://taskmanager-app.onrender.com/"
+    },
+    {
+        "title": "Jobster ",
+        "description": "Personal job tracking platform for job applications. Find and track your job applications easily with Jobster's user-friendly interface.",
+        "url": "https://jobster-app-iivr.onrender.com/landing",
+        "image": "./src/assets/Jobster.png",
+        "githubUrl": "https://github.com/reddymahendra52/Jobster-App",
+        "liveUrl": "https://jobster-app-iivr.onrender.com/landing"
+    },
+    {
+        "title": "Walcan ",
+        "description": "A simple twitter clone with a user-friendly interface.",
+        "url": "https://walcan.netlify.app/",
+        "image": "./src/assets/Walcan.png",
+        "githubUrl": "https://github.com/reddymahendra52/Walcan-server",
+        "liveUrl": "https://walcan.netlify.app/"
+    },
+    {
+        "title": "Jobs API",
+        "description": "API documentation for a jobs tracking application app, providing details and instructions on how to interact using SwaggerUI",
+        "url": "https://jobs-api-zs3j.onrender.com/api-docs/",
+        "image": "./src/assets/JobsAPI.PNG",
+        "githubUrl": "https://github.com/reddymahendra52/Jobs-API",
+        "liveUrl": "https://jobs-api-zs3j.onrender.com/api-docs/"
+    }
+]
+
