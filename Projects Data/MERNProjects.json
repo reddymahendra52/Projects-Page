@@ -30,6 +30,14 @@
         "image": "/assets/JobsAPI.PNG",
         "githubUrl": "https://github.com/reddymahendra52/Jobs-API",
         "liveUrl": "https://jobs-api-zs3j.onrender.com/api-docs/"
+    },
+    {
+        "title": "E-Commerce API",
+        "description": "API documentation for a full blown e-commerce app, providing details and instructions on how to interact using Docgen documentaion",
+        "url": "https://ecommerce-api-6fsv.onrender.com/",
+        "image": "/assets/Ecommerce.PNG",
+        "githubUrl": "https://github.com/reddymahendra52/E-Commerce-API",
+        "liveUrl": "https://ecommerce-api-6fsv.onrender.com/"
     }
 ]
 
