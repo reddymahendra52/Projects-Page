@@ -1,63 +1,72 @@
 [
-    {
-        "title": "Joey's Pizzeria",
-        "url": "https://reddymahendra52.github.io/Pizzeria-Form/",
-        "image": "/assets/PizzaForm.PNG"
-    },
-    {
-        "title": "Lorem Consult",
-        "url": "https://reddymahendra52.github.io/Lorem-Consult/",
-        "image": "/assets/LoremConsult.PNG"
-    },
-    {
-        "title": "Homify",
-        "url": "https://reddymahendra52.github.io/Homify/",
-        "image": "/assets/Homify.PNG"
-    },
-    {
-        "title": "Weather App",
-        "url": "https://reddymahendra52.github.io/Weather-App/",
-        "image": "/assets/WeatherApp.PNG"
-    },
-    {
-        "title": "Rock Paper Scissors",
-        "url": "https://reddymahendra52.github.io/Rock-Paper-Scissors/",
-        "image": "/assets/RockPaperScissors.PNG"
-    },
-    {
-        "title": "MaaS",
-        "url": "https://reddymahendra52.github.io/Landing-Page/",
-        "image": "/assets/MAAS.PNG"
-    },
-    {
-        "title": "Madame Curie",
-        "url": "https://reddymahendra52.github.io/Tribute-Page/",
-        "image": "/assets/TributePage.PNG"
-    },
-    {
-        "title": "Bootstrap Docs",
-        "url": "https://reddymahendra52.github.io/Bootstrap-Docs/",
-        "image": "/assets/BootstrapDocs.PNG"
-    },
-    {
-        "title": "DevIncept Blog Page",
-        "url": "https://reddymahendra52.github.io/DevIncept-BlogPage/",
-        "image": "/assets/DevInceptBlogPage.PNG"
-    },
-    {
-        "title": "D2-Media",
-        "url": "https://reddymahendra52.github.io/D2-Media-HostedVersion/",
-        "image": "/assets/D2-Media.PNG"
-    },
-    {
-        "title": "Four Card Section",
-        "url": "https://reddymahendra52.github.io/Four-Card-Section-Feature/",
-        "image": "/assets/FourCardSection.PNG"
-    },
-    {
-        "title": "Word Counter",
-        "url": "https://reddymahendra52.github.io/Word-Counter/",
-        "image": "/assets/WordCounter.PNG"
-    }
-    
+  {
+    "title": "Basic-Digital Solutions",
+    "url": "https://comfy-maamoul-7d1157.netlify.app/",
+    "image": "/assets/Basic.PNG"
+  },
+  {
+    "title": "AppGrids - Bootstrap 5 Landing Page",
+    "url": "https://magenta-cupcake-703aa7.netlify.app/",
+    "image": "/assets/AppGrid.PNG"
+  },
+  {
+    "title": "Joey's Pizzeria",
+    "url": "https://reddymahendra52.github.io/Pizzeria-Form/",
+    "image": "/assets/PizzaForm.PNG"
+  },
+  {
+    "title": "Lorem Consult",
+    "url": "https://reddymahendra52.github.io/Lorem-Consult/",
+    "image": "/assets/LoremConsult.PNG"
+  },
+  {
+    "title": "Homify",
+    "url": "https://reddymahendra52.github.io/Homify/",
+    "image": "/assets/Homify.PNG"
+  },
+  {
+    "title": "Weather App",
+    "url": "https://reddymahendra52.github.io/Weather-App/",
+    "image": "/assets/WeatherApp.PNG"
+  },
+  {
+    "title": "Rock Paper Scissors",
+    "url": "https://reddymahendra52.github.io/Rock-Paper-Scissors/",
+    "image": "/assets/RockPaperScissors.PNG"
+  },
+  {
+    "title": "MaaS",
+    "url": "https://reddymahendra52.github.io/Landing-Page/",
+    "image": "/assets/MAAS.PNG"
+  },
+  {
+    "title": "Madame Curie",
+    "url": "https://reddymahendra52.github.io/Tribute-Page/",
+    "image": "/assets/TributePage.PNG"
+  },
+  {
+    "title": "Bootstrap Docs",
+    "url": "https://reddymahendra52.github.io/Bootstrap-Docs/",
+    "image": "/assets/BootstrapDocs.PNG"
+  },
+  {
+    "title": "DevIncept Blog Page",
+    "url": "https://reddymahendra52.github.io/DevIncept-BlogPage/",
+    "image": "/assets/DevInceptBlogPage.PNG"
+  },
+  {
+    "title": "D2-Media",
+    "url": "https://reddymahendra52.github.io/D2-Media-HostedVersion/",
+    "image": "/assets/D2-Media.PNG"
+  },
+  {
+    "title": "Four Card Section",
+    "url": "https://reddymahendra52.github.io/Four-Card-Section-Feature/",
+    "image": "/assets/FourCardSection.PNG"
+  },
+  {
+    "title": "Word Counter",
+    "url": "https://reddymahendra52.github.io/Word-Counter/",
+    "image": "/assets/WordCounter.PNG"
+  }
 ]

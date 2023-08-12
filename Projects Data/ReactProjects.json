@@ -1,50 +1,122 @@
 [
-    {
-        "title": "Sikka-study",
-        "description": "A resource platform providing concise and practical information on cryptocurrencies and lastest news in the field",
-        "url": "https://sikka-study.netlify.app/",
-        "image": "/assets/SikkaStudy.png",
-        "githubUrl": "https://github.com/reddymahendra52/Sikka-Study",
-        "liveUrl": "https://sikka-study.netlify.app/"
-    },
-    {
-        "title": "Personal Portfolio",
-        "description": "My personal portfolio showcases my diverse range of projects and work details, highlighting my skills and expertise through a visually appealing and user-friendly interface.",
-        "url": "https://reddymahendra52.netlify.app/",
-        "image": "/assets/Portfolio.png",
-        "githubUrl": "https://github.com/reddymahendra52/Portfolio-Backend-SanityCMS",
-        "liveUrl": "https://reddymahendra52.netlify.app/"
-    },
-    {
-        "title": "Goals Tracker",
-        "description": "A goals tracker app that helps you set, track, and achieve your personal and professional goals efficiently, with a user-friendly interface.",
-        "url": "https://playful-gnome-45474f.netlify.app/",
-        "image": "/assets/GoalsTracker.PNG",
-        "githubUrl": "https://github.com/reddymahendra52/Goals-Tracker",
-        "liveUrl": "https://playful-gnome-45474f.netlify.app/"
-    },
-    {
-        "title": "Airbnb experiences UI",
-        "description": "A clone of basic UI component from Airbnb experiences site ",
-        "url": "https://experiences-airbnb.netlify.app/",
-        "image": "/assets/Airbnb.PNG",
-        "githubUrl": "https://github.com/reddymahendra52/Airbnb-Experiences-UI",
-        "liveUrl": "https://experiences-airbnb.netlify.app/"
-    },
-    {
-        "title": "Expense Tracker",
-        "description": "A simple app to track expense and filter them by year",
-        "url": "https://unrivaled-mochi-e44ce2.netlify.app/",
-        "image": "/assets/ExpenseTracker.PNG",
-        "githubUrl": "https://github.com/reddymahendra52/Expense-Tracker",
-        "liveUrl": "https://unrivaled-mochi-e44ce2.netlify.app/"
-    },
-    {
-        "title": "React Facts",
-        "description": "A basic use of React components to display some cool React Facts",
-        "url": "https://facts-react.netlify.app/",
-        "image": "/assets/ReactFacts.PNG",
-        "githubUrl": "https://github.com/reddymahendra52/ReactFacts",
-        "liveUrl": "https://facts-react.netlify.app/"
-    }
+  {
+    "title": "Sikka-study",
+    "description": "A resource platform providing concise and practical information on cryptocurrencies and lastest news in the field",
+    "url": "https://sikka-study.netlify.app/",
+    "image": "/assets/SikkaStudy.png",
+    "githubUrl": "https://github.com/reddymahendra52/Sikka-Study",
+    "liveUrl": "https://sikka-study.netlify.app/"
+  },
+  {
+    "title": "Personal Portfolio",
+    "description": "My personal portfolio showcases my diverse range of projects and work details, highlighting my skills and expertise through a visually appealing and user-friendly interface.",
+    "url": "https://reddymahendra52.netlify.app/",
+    "image": "/assets/Portfolio.png",
+    "githubUrl": "https://github.com/reddymahendra52/Portfolio-Backend-SanityCMS",
+    "liveUrl": "https://reddymahendra52.netlify.app/"
+  },
+  {
+    "title": "Search GitHub Users",
+    "description": "Search GitHub Users project enables efficient exploration of GitHub profiles, aiding developers in discovering repositories, contributions, and collaborations",
+    "url": "https://search-git-hub-users-nine.vercel.app/login",
+    "image": "/assets/GitHubUsers.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/Search-GitHub-Users",
+    "liveUrl": "https://search-git-hub-users-nine.vercel.app/login"
+  },
+  {
+    "title": "Maid App Landing Page",
+    "description": "The official landing page for the Maid App project",
+    "url": "https://maid-app-landing-page.netlify.app/",
+    "image": "/assets/MaidUI.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/Maid-App-UI-Landing-Page",
+    "liveUrl": "https://maid-app-landing-page.netlify.app/"
+  },
+  {
+    "title": "Hacker News",
+    "description": "Hacker News project utilizes Algolia API for lightning-fast search, delivering real-time news and discussions to tech enthusiasts efficiently.",
+    "url": "https://react-basic-api-projects-hacker-news.vercel.app/",
+    "image": "/assets/HackerNews.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/React-Basic-API-Projects/tree/main/hacker-news",
+    "liveUrl": "https://react-basic-api-projects-hacker-news.vercel.app/"
+  },
+  {
+    "title": "Markdown Preview",
+    "description": "Markdown Preview project offers real-time rendering of Markdown content, providing users an instant view of formatted text and documents.",
+    "url": "https://react-basic-api-projects-markdown-preview.vercel.app/",
+    "image": "/assets/Markdown.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/React-Basic-API-Projects/tree/main/markdown-preview",
+    "liveUrl": "https://react-basic-api-projects-markdown-preview.vercel.app/"
+  },
+  {
+    "title": "MixMaster",
+    "description": "MixMaster project offers a delightful experience by displaying a variety of cocktails, perfecting your mixology.",
+    "url": "https://react-basic-api-projects-mixmaster.vercel.app/",
+    "image": "/assets/Mixmaster.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/React-Basic-API-Projects/tree/main/mixmaster",
+    "liveUrl": "https://react-basic-api-projects-mixmaster.vercel.app/"
+  },
+  {
+    "title": "Unsplash Images",
+    "description": "Unsplash Image project showcases a curated collection of high-quality images, offering a visually appealing resource for creative projects.",
+    "url": "https://incredible-liger-b682d2.netlify.app/",
+    "image": "/assets/Unsplash.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/React-Basic-API-Projects/tree/main/unsplash-images",
+    "liveUrl": "https://incredible-liger-b682d2.netlify.app/"
+  },
+  {
+    "title": "Backroads UI",
+    "description": "Explore your country backroads for refreshing and delightful adventerous",
+    "url": "https://jocular-treacle-83b24b.netlify.app/",
+    "image": "/assets/Backroads.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/BackRoads-UI",
+    "liveUrl": "https://jocular-treacle-83b24b.netlify.app/"
+  },
+  {
+    "title": "Movies DB",
+    "description": "Movies DB project presents a comprehensive database of films, providing details for movie enthusiasts and researchers.",
+    "url": "https://famous-kheer-d34591.netlify.app/",
+    "image": "/assets/Movies.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/React-Basic-API-Projects/tree/main/movie-db",
+    "liveUrl": "https://famous-kheer-d34591.netlify.app/"
+  },
+  {
+    "title": "Quiz App",
+    "description": "Quiz App project engages users with interactive quizzes, enhancing knowledge and fun through a user-friendly interface",
+    "url": "https://startling-unicorn-9daa61.netlify.app/",
+    "image": "/assets/Quiz.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/React-Basic-API-Projects/tree/main/quiz-app",
+    "liveUrl": "https://startling-unicorn-9daa61.netlify.app/"
+  },
+  {
+    "title": "Color Generator",
+    "description": "Color Generator project generates vibrant color shades, aiding designers and creators in finding inspiring and harmonious color combinations.",
+    "url": "https://react-basic-projects-color-generator.vercel.app/",
+    "image": "/assets/Colorgenerator.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/React-Basic-Projects/tree/main/Color-Generator",
+    "liveUrl": "https://react-basic-projects-color-generator.vercel.app/"
+  },
+  {
+    "title": "Lorem Ipsum Generator",
+    "description": "Lorem Ipsum Generator project quickly produces placeholder text, simplifying layout and design workflows with customizable content for prototypes.",
+    "url": "https://react-basic-projects-lorem-ipsum.vercel.app/",
+    "image": "/assets/LoremIpsum.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/React-Basic-Projects/tree/main/Lorem-Ipsum-Generator",
+    "liveUrl": "https://react-basic-projects-lorem-ipsum.vercel.app/"
+  },
+  {
+    "title": "Restaurant Menu",
+    "description": "Restaurant Menu project showcases a delectable assortment of dishes",
+    "url": "https://react-basic-projects-menu.vercel.app/",
+    "image": "/assets/Menu.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/React-Basic-Projects/tree/main/Menu",
+    "liveUrl": "https://react-basic-projects-menu.vercel.app/"
+  },
+  {
+    "title": "Airbnb experiences UI",
+    "description": "A clone of basic UI component from Airbnb experiences site ",
+    "url": "https://experiences-airbnb.netlify.app/",
+    "image": "/assets/Airbnb.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/Airbnb-Experiences-UI",
+    "liveUrl": "https://experiences-airbnb.netlify.app/"
+  }
 ]

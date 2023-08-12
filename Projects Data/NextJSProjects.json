@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Flexibble",
+    "description": "Flexibble is a platform for developers to showcase and discover remarkable projects to and from the community and get hired",
+    "url": "https://flexibble-grafbase-one.vercel.app/",
+    "image": "/assets/Flexibble.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/Flexibble-Grafbase",
+    "liveUrl": "https://flexibble-grafbase-one.vercel.app/"
+  },
+  {
+    "title": "Promptopia",
+    "description": "Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts",
+    "url": "https://promptopia-nine-chi.vercel.app/",
+    "image": "/assets/Promptopia.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/Promptopia",
+    "liveUrl": "https://promptopia-nine-chi.vercel.app/"
+  },
+  {
+    "title": "Car Hub",
+    "description": "Discover the best cars in the world with their pin point details",
+    "url": "https://car-hub-six-mu.vercel.app/",
+    "image": "/assets/CarHub.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/Car-Hub",
+    "liveUrl": "https://car-hub-six-mu.vercel.app/"
+  },
+  {
+    "title": "Maid App",
+    "description": "Maid App is the easiest way to book a reliable and trustworthy maid for your home cleaning needs. Choose from a variety of services and schedules, and have your home sparkling clean in no time!",
+    "url": "https://mf-chi.vercel.app/",
+    "image": "/assets/MaidApp.PNG",
+    "githubUrl": "https://github.com/reddymahendra52?tab=repositories&q=Maid",
+    "liveUrl": "https://mf-chi.vercel.app/"
+  },
+  {
+    "title": "NextJS-Blog",
+    "description": "A simple implementation site to demonstrate the features of a Next.js",
+    "url": "https://next-js-blog-nu-lime.vercel.app/",
+    "image": "/assets/Next-Blog.PNG",
+    "githubUrl": "https://github.com/reddymahendra52/NextJS-Blog",
+    "liveUrl": "https://next-js-blog-nu-lime.vercel.app/"
+  }
+]

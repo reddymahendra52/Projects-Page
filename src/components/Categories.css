@@ -1,0 +1,42 @@
+/* Categories.css */
+
+.categories {
+  text-align: center;
+}
+
+.categories-heading {
+  margin-bottom: 20px;
+}
+
+.categories-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.categories-button {
+  display: inline-block;
+  margin: 8px;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.categories-button:hover {
+  background-color: #fdebd0;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .categories-button {
+    width: 31%;
+    margin: 8px 5px;
+    display: inline-block;
+  }
+}
